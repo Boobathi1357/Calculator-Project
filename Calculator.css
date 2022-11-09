@@ -1,0 +1,16 @@
+body {
+    background: bisque;
+}
+
+#val1,body,#val2,#result {
+    text-transform: capitalize;
+    font-size: large;
+}
+
+#operation {
+    color: rgb(67, 67, 207);
+}
+
+.op {
+    font-weight: bold;
+}
